@@ -1,1 +1,19 @@
-
+{
+    "nome_modelo": "MLP_1_Compacta",
+    "limiar_classificacao": 0.45,
+    "classes": {
+        "0": "Furto",
+        "1": "Roubo"
+    },
+    "features": [
+        "BAIRRO",
+        "MES",
+        "DIA_SEMANA",
+        "DESCR_PERIODO",
+        "DESCR_TIPOLOCAL",
+        "DESCR_SUBTIPOLOCAL"
+    ],
+    "quantidade_features_processadas": 293,
+    "fonte_dados": "Secretaria da Segurança Pública do Estado de São Paulo",
+    "recorte": "Ocorrências envolvendo celulares na cidade de São Paulo em 2025"
+}
