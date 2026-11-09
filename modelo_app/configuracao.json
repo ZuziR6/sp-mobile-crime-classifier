@@ -1,6 +1,6 @@
 {
     "nome_modelo": "MLP_1_Compacta",
-    "limiar_classificacao": 0.45,
+    "limiar_classificacao": 0.50,
     "classes": {
         "0": "Furto",
         "1": "Roubo"
